@@ -1,0 +1,9 @@
+name: JobsBonuses
+version: '${project.version}'
+main: cz.czghost.jobsbonuses.JobsBonuses
+api-version: 1.19
+prefix: JobsBonuses
+depend: [ Jobs, PlaceholderAPI ]
+authors: [ CZghost ]
+description:
+  Addon plugin for Jobs Reborn by Zrips
